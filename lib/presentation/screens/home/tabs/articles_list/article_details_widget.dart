@@ -4,9 +4,6 @@ import 'package:news_app/config/theme/app_txt_styles.dart';
 import 'package:news_app/core/assets_manager.dart';
 import 'package:news_app/core/colors_manager.dart';
 import 'package:news_app/data/api/model/articles_response/article.dart';
-import 'package:news_app/presentation/screens/home/home_drawer/home_drawer.dart';
-import 'package:news_app/presentation/screens/home/home_drawer/home_drawer.dart';
-import 'package:news_app/presentation/screens/home/tabs/articles_list/article_item_widget.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class ArticleDetailsWidget extends StatelessWidget {
